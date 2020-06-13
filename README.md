@@ -1,5 +1,8 @@
 # Magic Square Project
-A n × n magic square is an arrangement of the numbers 1, 2, . . . , $n^2$ in a 𝑛×𝑛 grid in such way that all the rows, columns, and diagonals have the same sum. In general, there are 𝑛 rows, 𝑛 columns, and 2 diagonals, for a total of 2𝑛+2 sums. Each sum is equal to 𝑛(𝑛2+1)/2.
+A n × n magic square is an arrangement of the numbers 1, 2, . . . , $n^2$ in a $n × n$ grid in such way
+that all the rows, columns, and diagonals have the same sum.
+In general, there are $n$ rows, $n$ columns, and
+2 diagonals, for a total of $2n + 2$ sums. Each sum is equal to $n(n^2+1)/2$. 
 We are going to find the magic square by using stimulated annealing technique and study it's behaviour.
 
 ***Our procedure to get the magic square:***
